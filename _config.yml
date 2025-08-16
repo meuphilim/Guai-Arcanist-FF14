@@ -1,5 +1,22 @@
-title: "FFXIV Summoner Guide"
-description: "Guia completo do Summoner em Dawntrail 7.2"
-remote_theme: pages-themes/architect@v0.2.0
+# Configuração mínima para GitHub Pages
+title: FFXIV Summoner Guide
+email: contato@exemplo.com
+description: >-
+  Guia completo do Summoner em Final Fantasy XIV - Versão Dawntrail 7.2
+baseurl: ""
+url: "https://meuphilim.github.io/Guai-Arcanist-FF14/"
+
+# Tema (opcional: use o padrão do GitHub ou remova para usar HTML puro)
+theme: minima
+
+# Plugins
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+
+# Markdown
+markdown: GFM
+
+# Exclusões
+exclude:
+  - Gemfile
+  - Gemfile.lock
