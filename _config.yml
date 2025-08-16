@@ -1,22 +1,6 @@
-# Configuração mínima para GitHub Pages
-title: FFXIV Summoner Guide
-email: meuphilim@gmail.com
-description: >-
-  Guia completo do Summoner em Final Fantasy XIV - Versão Dawntrail 7.2
-baseurl: ""
-url: "https://meuphilim.github.io/Guai-Arcanist-FF14/"
-
-# Tema (opcional: use o padrão do GitHub ou remova para usar HTML puro)
-theme: minima
-
-# Plugins
-plugins:
-  - jekyll-feed
-
-# Markdown
-markdown: GFM
-
-# Exclusões
-exclude:
-  - Gemfile
-  - Gemfile.lock
+title: FFXIV Summoner Guide — Dawntrail 7.2
+description: Guia completo do Summoner em Final Fantasy XIV, versão 7.2 (Dawntrail)
+logo: https://static.icy-veins.com/images/ffxiv/job-candy/summoner.png
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
