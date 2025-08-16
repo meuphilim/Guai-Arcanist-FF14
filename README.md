@@ -4,8 +4,10 @@
 
 # FFXIV Summoner Guide — <em>Dawntrail 7.2</em>
 
-[Summoner_em_FFXIV.mp3](https://github.com/user-attachments/files/21816962/Summoner_em_FFXIV.mp3)
-
+<video controls width="300" height="50">
+  <source src="https://github.com/user-attachments/files/21816962/Summoner_em_FFXIV.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 <p>
   <a href="https://www.finalfantasyxiv.com/"><img alt="FFXIV" src="https://img.shields.io/badge/Game-FFXIV-6B9AC4?logo=final-fantasy&logoColor=white"></a>
