@@ -4,10 +4,8 @@
 
 # FFXIV Summoner Guide — <em>Dawntrail 7.2</em>
 
-<audio controls>
-  <source src="[URL_DO_ARQUIVO.mp3](https://github.com/meuphilim/Guai-Arcanist-FF14/raw/refs/heads/main/Summoner_em_FFXIV.mp3)" type="audio/mpeg">
-  Seu navegador não suporta a tag de áudio.
-</audio>
+[Summoner_em_FFXIV.mp3](https://github.com/user-attachments/files/21816962/Summoner_em_FFXIV.mp3)
+
 
 <p>
   <a href="https://www.finalfantasyxiv.com/"><img alt="FFXIV" src="https://img.shields.io/badge/Game-FFXIV-6B9AC4?logo=final-fantasy&logoColor=white"></a>
