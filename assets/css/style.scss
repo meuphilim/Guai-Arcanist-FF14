@@ -3,67 +3,85 @@
 
 @import "{{ site.theme }}";
 
-/* Cores customizadas para o tema FFXIV */
+/* Cores customizadas para o tema FFXIV com contraste otimizado */
 body {
   background-color: #0f131a;
-  color: #e0e0e0;
+  color: #f1f3f4; /* Texto principal mais claro para melhor contraste */
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #6B9AC4;
+  color: #81c4e8; /* Azul mais claro para headings */
 }
 
 h1 em {
-  color: #F6AD55;
+  color: #ffc266; /* Laranja mais claro e vibrante */
 }
 
 a {
-  color: #4299E1;
+  color: #66b3ff; /* Azul mais claro para links */
 }
 
 a:hover {
-  color: #F6AD55;
+  color: #ffcc80; /* Laranja suave no hover */
 }
 
 blockquote {
   background-color: #1a2233;
-  border-left: 5px solid #7B8CDE;
-  color: #e0e0e0;
+  border-left: 5px solid #9bb5f0; /* Borda mais clara */
+  color: #f1f3f4; /* Texto mais claro */
 }
 
 table {
-  border-color: #334155;
+  border-color: #4a5568; /* Bordas mais claras */
+  color: #f1f3f4;
 }
 
 th {
-  background-color: #1e293b;
-  border-color: #334155;
+  background-color: #2d3748; /* Fundo mais claro */
+  border-color: #4a5568;
+  color: #f7fafc; /* Texto bem claro */
 }
 
 td {
-  border-color: #334155;
+  border-color: #4a5568;
+  color: #e2e8f0; /* Texto ligeiramente menos claro que headers */
 }
 
 pre, code {
-  background-color: #1e293b;
-  color: #e0e0e0;
+  background-color: #2d3748; /* Fundo mais claro */
+  color: #f7fafc; /* Texto bem claro */
+  border: 1px solid #4a5568; /* Borda sutil */
 }
 
 /* Navegação específica do guia */
 .nav-links a {
-  color: #6B9AC4;
+  color: #81c4e8; /* Azul mais claro */
 }
 
 .nav-links a:hover {
-  color: #F6AD55;
+  color: #ffcc80; /* Laranja suave */
 }
 
 /* Summary dos detalhes */
 details summary {
-  color: #6B9AC4;
+  color: #81c4e8; /* Azul mais claro */
 }
 
 /* Footer customizado */
 footer {
-  color: #a0aec0;
+  color: #cbd5e0; /* Cinza mais claro para melhor legibilidade */
+}
+
+/* Texto secundário e elementos auxiliares */
+.text-muted, small {
+  color: #a0aec0; /* Cinza médio para texto secundário */
+}
+
+/* Strong e emphasis para destaque */
+strong, b {
+  color: #f7fafc; /* Branco suave para texto em negrito */
+}
+
+em, i {
+  color: #e2e8f0; /* Cinza claro para itálico */
 }
