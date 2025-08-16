@@ -5,7 +5,7 @@ description: Guia completo do Summoner para Final Fantasy XIV
 ---
 
 <div align="center">  
-  <h1>FFXIV Summoner Guide — <em>Dawntrail 7.2</em></h1>
+  <h1>FFXIV Summoner Guide <br><em>Dawntrail 7.2</em></h1>
   
   <p>
     <a href="https://www.finalfantasyxiv.com/"><img alt="FFXIV" src="https://img.shields.io/badge/Game-FFXIV-6B9AC4?logo=final-fantasy&logoColor=white"></a>
