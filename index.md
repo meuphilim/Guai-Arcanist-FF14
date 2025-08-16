@@ -3,14 +3,16 @@ layout: default
 title: "FFXIV Summoner Guide - Dawntrail 7.2"
 ---
 
-# FFXIV Summoner Guide - Dawntrail 7.2 
+# FFXIV Summoner Guide 
+### Dawntrail 7.2
+
 ![Summoner Job Stone](https://static.icy-veins.com/images/ffxiv/job-candy/summoner.png)  
 
 > **DPS Mágico** com foco em invocação de primais, alta mobilidade e flexibilidade estratégica.
 
 ---
 
-## 🎵 Guia em Áudio
+## 🎵 Analise da Classe em Audio.
 
 <audio controls>
   <source src="https://github.com/meuphilim/Guai-Arcanist-FF14/raw/refs/heads/main/Summoner_em_FFXIV.mp3" type="audio/mpeg">
