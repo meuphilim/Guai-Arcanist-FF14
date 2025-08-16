@@ -13,7 +13,7 @@ url: "https://meuphilim.github.io/"
 baseurl: "/Guai-Arcanist-FF14"
 
 # Configurações do tema minimal
-logo: assets/images/summoner-logo.png
+logo: "https://static.icy-veins.com/images/ffxiv/job-candy/summoner.png"
 show_downloads: false
 
 # Plugins
