@@ -1,6 +1,79 @@
-title: FFXIV Summoner Guide — Dawntrail 7.2
-description: Guia completo do Summoner em Final Fantasy XIV, versão 7.2 (Dawntrail)
-logo: https://static.icy-veins.com/images/ffxiv/job-candy/summoner.png
-show_downloads: false
-google_analytics:
+# Configuração do site Jekyll
+title: FFXIV Summoner Guide
+description: Guia completo do Summoner para Final Fantasy XIV - Dawntrail 7.2
+author: Meuphilim
+email: meuphilim@gmail.com
+
+# Tema
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+
+# URL do site (substitua pelo seu repositório)
+url: "https://meuphilim.github.io/"
+baseurl: "/Guai-Arcanist-FF14"
+
+# Configurações do tema minimal
+logo: assets/images/summoner-logo.png
+show_downloads: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configurações de build
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+highlighter: rouge
+
+# Exclude arquivos do build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Include arquivos específicos
+include:
+  - _pages
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+# SEO
+lang: pt-BR
+twitter:
+  username: @JMeuphilim
+  card: summary
+
+# GitHub
+github:
+  repository_url: https://github.com/meuphilim/Guai-Arcanist-FF14
+  is_project_page: true
+
+# Google Analytics (opcional)
+# google_analytics: UA-XXXXXXXX-X
