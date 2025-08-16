@@ -4,9 +4,7 @@ title: FFXIV Summoner Guide - Dawntrail 7.2
 description: Guia completo do Summoner para Final Fantasy XIV
 ---
 
-<div align="center">
-  <img src="https://static.icy-veins.com/images/ffxiv/job-candy/summoner.png" alt="Summoner Job Stone" width="128" />
-  
+<div align="center">  
   <h1>FFXIV Summoner Guide — <em>Dawntrail 7.2</em></h1>
   
   <p>
@@ -43,6 +41,8 @@ description: Guia completo do Summoner para Final Fantasy XIV
     <li><a href="#-recursos-adicionais">Recursos Adicionais</a></li>
   </ul>
 </details>
+
+<br>
 
 ## 🔓 Desbloqueio
 
