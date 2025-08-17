@@ -1,7 +1,7 @@
 ---
 layout: default
-title: FFXIV Summoner Guide <br>Dawntrail 7.2
-description: Guia completo do Summoner para Final Fantasy XIV
+title: FFXIV Summoner Guide - Dawntrail 7.2
+description: Guia do Arcanist/Summoner para Final Fantasy XIV
 ---
 
 <div align="center">  
@@ -185,17 +185,15 @@ description: Guia completo do Summoner para Final Fantasy XIV
 
 ## 📊 Sistema de Gauges
 
-| Gauge | Função |
-|-------|--------|
-| **Trance** | Duração da trance/demi-primal ativa |
-| **Elemental Arcanum** | Arcanums disponíveis + cargas elementais |
-| **Aetherflow** | Cargas para Fester/Painflare |
+<div align="center"> 
+  
+| Gauge | Função | Imagem | 
+|-------|--------|--------|
+| **Trance** | Duração da trance/demi-primal ativa | <img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" height="96" /> |
+| **Elemental Arcanum** | Arcanums disponíveis + cargas elementais | <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Arcanum Gauge" height="96" /> |
+| **Aetherflow** | Cargas para Fester/Painflare | <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow Gauge" height="96" /> |
 
-<p>
-  <img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" height="56" />
-  <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Arcanum Gauge" height="56" />
-  <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow Gauge" height="56" />
-</p>
+</div>
 
 ## 💡 Dicas Essenciais
 
