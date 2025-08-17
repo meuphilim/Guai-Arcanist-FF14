@@ -41,15 +41,15 @@ description: Guia do Arcanist/Summoner para Final Fantasy XIV
     <li><a href="#-recursos-adicionais">Recursos Adicionais</a></li>
   </ul>
 </details>
-
 <br>
 
 ## 🎵 Analise da Classe
 
 <audio controls>
-  <source src="https://github.com/meuphilim/Guai-Arcanist-FF14/raw/heads/main/Summoner_em_FFXIV.mp3" type="audio/mpeg">
+  <source src="https://github.com/meuphilim/Guai-Arcanist-FF14/blob/9e90e83c7c66b8a1d619aff3d6b8df779273758a/Summoner_em_FFXIV.mp3" type="audio/mpeg">
   Seu navegador não suporta a tag de áudio.
 </audio>
+<br>
 
 ## 🔓 Desbloqueio
 
