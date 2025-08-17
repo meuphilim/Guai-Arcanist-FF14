@@ -4,10 +4,12 @@
 
 # FFXIV Summoner Guide — <em>Dawntrail 7.2</em>
 
-<video controls width="300" height="50">
-  <source src="https://github.com/user-attachments/files/21816962/Summoner_em_FFXIV.mp3" type="audio/mpeg">
-  Your browser does not support the video tag.
-</video>
+## 🎵 Analise da Classe
+
+<audio controls>
+  <source src="https://github.com/meuphilim/Guai-Arcanist-FF14/raw/heads/main/Summoner_em_FFXIV.mp3" type="audio/mpeg">
+  Seu navegador não suporta a tag de áudio.
+</audio>
 
 <p>
   <a href="https://www.finalfantasyxiv.com/"><img alt="FFXIV" src="https://img.shields.io/badge/Game-FFXIV-6B9AC4?logo=final-fantasy&logoColor=white"></a>
