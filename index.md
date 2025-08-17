@@ -46,7 +46,7 @@ description: Guia do Arcanist/Summoner para Final Fantasy XIV
 ## 🎵 Analise da Classe
 
 <audio controls>
-  <source src="https://github.com/meuphilim/Guai-Arcanist-FF14/blob/9e90e83c7c66b8a1d619aff3d6b8df779273758a/Summoner_em_FFXIV.mp3" type="audio/mpeg">
+  <source src="https://github.com/meuphilim/Guai-Arcanist-FF14/blob/main/Summoner_em_FFXIV.mp3" type="audio/mpeg">
   Seu navegador não suporta a tag de áudio.
 </audio>
 <br>
@@ -187,11 +187,11 @@ description: Guia do Arcanist/Summoner para Final Fantasy XIV
 
 <div align="center"> 
   
-| Gauge | Função | Imagem | 
+| Gauge | Função | Imagem |
 |-------|--------|--------|
 | **Trance** | Duração da trance/demi-primal ativa | <img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" height="96" /> |
 | **Elemental Arcanum** | Arcanums disponíveis + cargas elementais | <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Arcanum Gauge" height="96" /> |
-| **Aetherflow** | Cargas para Fester/Painflare | <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow Gauge" height="96" /> |
+| **Aetherflow** | Cargas para Fester/Painflare | <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow Gauge" height="100" /> |
 
 </div>
 
