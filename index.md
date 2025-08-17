@@ -187,9 +187,9 @@ description: Guia do Arcanist/Summoner para Final Fantasy XIV
 
 | Gauge | Função | Imagem |
 |-------|--------|--------|
-| **Trance** | Duração da trance/demi-primal ativa | <img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" height="86" /> |
-| **Elemental Arcanum** | Arcanums disponíveis + cargas elementais | <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Arcanum Gauge" height="86" /> |
-| **Aetherflow** | Cargas para Fester/Painflare | <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow Gauge" height="86" /> |
+| **Trance** | Duração da trance/demi-primal ativa | <img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" width="120" /> |
+| **Elemental Arcanum** | Arcanums disponíveis + cargas elementais | <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Arcanum Gauge" width="120" /> |
+| **Aetherflow** | Cargas para Fester/Painflare | <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow Gauge" width="120" /> |
 
 ## 💡 Dicas Essenciais
 
