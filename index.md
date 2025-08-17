@@ -44,6 +44,13 @@ description: Guia completo do Summoner para Final Fantasy XIV
 
 <br>
 
+## 🎵 Analise da Classe
+
+<audio controls>
+  <source src="https://github.com/meuphilim/Guai-Arcanist-FF14/raw/heads/main/Summoner_em_FFXIV.mp3" type="audio/mpeg">
+  Seu navegador não suporta a tag de áudio.
+</audio>
+
 ## 🔓 Desbloqueio
 
 | Classe | Requisitos |
