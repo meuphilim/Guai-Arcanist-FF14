@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FFXIV Summoner Guide - Dawntrail 7.2
+title: FFXIV Summoner Guide <br>Dawntrail 7.2
 description: Guia completo do Summoner para Final Fantasy XIV
 ---
 
@@ -11,7 +11,7 @@ description: Guia completo do Summoner para Final Fantasy XIV
     <a href="https://www.finalfantasyxiv.com/"><img alt="FFXIV" src="https://img.shields.io/badge/Game-FFXIV-6B9AC4?logo=final-fantasy&logoColor=white"></a>
     <img alt="Role" src="https://img.shields.io/badge/Role-Magical%20Ranged%20DPS-7B8CDE">
     <img alt="Idioma" src="https://img.shields.io/badge/Idioma-PT--BR-2F855A">
-    <img alt="Versão" src="https://img.shields.io/badge/Vers%C3%A3o-7.2-%23F6AD55">
+    <img alt="Versão" src="https://img.shields.io/badge/Dawntrail-Patch%207.2%20Seekers%20of%20Eternity-%23F6AD55">
   </p>
   
   <blockquote><strong>DPS Mágico</strong> com foco em invocação de primais, alta mobilidade e flexibilidade estratégica.</blockquote>
