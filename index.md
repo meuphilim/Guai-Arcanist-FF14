@@ -5,43 +5,44 @@ description: Guia do Arcanist/Summoner para Final Fantasy XIV
 ---
 
 <div align="center">  
-  <h1>FFXIV Summoner Guide <br><em>Dawntrail 7.2</em></h1>
+  <h1>FFXIV Summoner Guide <br><em>Dawntrail 7.3</em></h1>
   
   <p>
     <a href="https://www.finalfantasyxiv.com/"><img alt="FFXIV" src="https://img.shields.io/badge/Game-FFXIV-6B9AC4?logo=final-fantasy&logoColor=white"></a>
     <img alt="Role" src="https://img.shields.io/badge/Role-Magical%20Ranged%20DPS-7B8CDE">
     <img alt="Idioma" src="https://img.shields.io/badge/Idioma-PT--BR-2F855A">
-    <img alt="Versão" src="https://img.shields.io/badge/Dawntrail-Patch%207.2%20Seekers%20of%20Eternity-%23F6AD55">
+    <img alt="Versão" src="https://img.shields.io/badge/Dawntrail-Patch%207.3%20Seekers%20of%20Eternity-%23F6AD55">
   </p>
   
-  <blockquote><strong>DPS Mágico</strong> com foco em invocação de primais, alta mobilidade e flexibilidade estratégica.</blockquote>
 </div>
-
-<!-- QUICK NAV -->
-<p align="center">
-  <a href="#-desbloqueio">Desbloqueio</a> •
-  <a href="#-características">Características</a> •
-  <a href="#-habilidades-essenciais">Habilidades</a> •
-  <a href="#-rotações">Rotações</a> •
-  <a href="#-sistema-de-gauges">Gauges</a> •
-  <a href="#-dicas-essenciais">Dicas</a> •
-  <a href="#-resumo">Resumo</a>
-</p>
 
 <details>
   <summary><strong>📋 Índice</strong> (clique para expandir)</summary>
   <ul>
+    <li><a href="#-arcanista--invocador">Arcanista & Invocador</a></li>
+    <li><a href="#-introdução-à-classe-e-à-função">Introdução à Classe</a></li>
+    <li><a href="#-pontos-fortes">Pontos Fortes</a></li>
+    <li><a href="#️-pontos-fracos">Pontos Fracos</a></li>
     <li><a href="#-desbloqueio">Desbloqueio</a></li>
-    <li><a href="#-características">Características</a></li>
-    <li><a href="#-habilidades-essenciais">Habilidades Essenciais</a></li>
-    <li><a href="#-rotações">Rotações</a></li>
-    <li><a href="#-sistema-de-gauges">Gauges</a></li>
-    <li><a href="#-dicas-essenciais">Dicas</a></li>
-    <li><a href="#-resumo">Resumo</a></li>
+    <li><a href="#-mecânicas-principais">Mecânicas Principais</a></li>
+    <li><a href="#-sistema-de-gauges">Sistema de Gauges</a></li>
+    <li><a href="#-habilidades-por-nível">Habilidades por Nível</a></li>
+    <li><a href="#-rotações-e-estratégias">Rotações e Estratégias</a></li>
+    <li><a href="#-dicas-essenciais">Dicas Essenciais</a></li>
+    <li><a href="#-gameplay">Gameplay</a></li>
+    <li><a href="#-otimização-avançada">Otimização Avançada</a></li>
+    <li><a href="#-habilidades-de-função-role-actions">Habilidades de Função</a></li>
+    <li><a href="#-resumo-final">Resumo Final</a></li>
     <li><a href="#-recursos-adicionais">Recursos Adicionais</a></li>
+    <li><a href="#-conquistas-e-progressão">Conquistas e Progressão</a></li>
+    <li><a href="#-configurações-recomendadas">Configurações Recomendadas</a></li>
+    <li><a href="#-glamour-e-estética">Glamour e Estética</a></li>
+    <li><a href="#-etiqueta-em-grupo">Etiqueta em Grupo</a></li>
+    <li><a href="#-futuro-da-classe">Futuro da Classe</a></li>
   </ul>
 </details>
-<br>
+
+---
 
 ## 🎵 Analise da Classe
 
@@ -51,187 +52,474 @@ description: Guia do Arcanist/Summoner para Final Fantasy XIV
 </audio>
 <br>
 
+---
+
+## 🔮 ARCANISTA & INVOCADOR
+<blockquote><strong>DPS Mágico</strong> com foco em invocação de primais, alta mobilidade e flexibilidade estratégica.</blockquote>
+
+---
+
+## 🎯 Introdução à Classe e à Função
+O Arcanista (ACN) é uma das seis classes iniciais de DPS e uma das duas classes iniciais de DPS Mágico de Longo Alcance no Final Fantasy XIV. Os Arcanistas derivam seu poder de símbolos de poder baseados em técnicas geométricas do sul dos mares. Esses símbolos, contidos em grimoires ocultos, moldam o éter do arcanista para produzir uma variedade de feitiços poderosos.
+
+Os Invocadores são mestres na utilização do poder e da atenuação elemental de vários primais e demi-primais para devastar seus inimigos. Essa classe mantém um alto grau de mobilidade gratuitamente, tornando-a uma opção fácil para jogadores iniciantes ou para aprendizado de mecânicas.
+
+| ✅ Pontos Fortes | ⚠️ Pontos Fracos |
+|------------------|------------------|
+| 🚀 **Mobilidade**<br>Maior mobilidade entre os DPS mágicos | ⏳ **Filler**<br>DPS baixo fora das janelas de burst |
+| 💥 **Burst DPS**<br>Janelas de dano explosivo em momentos específicos | 🔒 **Carbuncle**<br>Carbuncle inutilizado durante invocações maiores |
+| 🌀 **Cleave**<br>Cleave incidental forte durante a rotação | 📉 **Drift**<br>Drift de cooldowns com Spell Speed excessiva |
+| 🔄 **Utilidade**<br>Capacidade de ressuscitar em combate | &nbsp; |
+| 🛡️ **Suporte**<br>Utilidade de grupo com buffs e curas | &nbsp; |
+
+---
+
 ## 🔓 Desbloqueio
 
 | Classe | Requisitos |
 |--------|------------|
-| **Arcanist** | Nível 10 em qualquer classe + Limsa Lominsa |
-| **Summoner** | Nível 30 Arcanist + missão de classe |
+| <div align="center"><img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/7b/Arcanist_frame_icon.png/30px-Arcanist_frame_icon.png" alt="Arcanista"><br> **Arcanista** </div> | Nível 1 em qualquer classe + iniciar em Limsa Lominsa |
+| <div align="center"><img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/62/Summoner_frame_icon.png/30px-Summoner_frame_icon.png" alt="Invocador"><br> **Invocador**  </div> | Nível 30 de Arcanista + completar "Sinking Doesmaga" e "Self-Management" |
 
-## ⚡ Características
-
-### ✅ Pontos Fortes
-- **Maior mobilidade** entre DPS mágicos
-- **Burst damage** em janelas específicas
-- **Cleave incidental** forte
-- **Resurrect** em combate
-- **Utilidade de grupo** (buffs/cura)
-
-### ❌ Pontos Fracos
-- **DPS baixo** fora das janelas de burst
-- **Carbuncle** fica inutilizado durante invocações
-- **Drift de cooldowns** com velocidade excessiva
-
-## 🎯 Habilidades Essenciais
-
-### Níveis 1—30: Fundamentos
-
-**Lv1 - Ruin (240 potência, 1.5s cast)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/000501.png" alt="Ruin" width="48" />
-
-**Lv2 - Summon Carbuncle + Radiant Aegis (escudo 20% HP)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/000516.png" alt="Summon Carbuncle" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002750.png" alt="Radiant Aegis" width="48" />
-
-**Lv6 - Aether Charge (+50 potência por 15s)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002751.png" alt="Aethercharge" width="48" />
-
-**Lv10 - Energy Drain → Fester (300 potência x2)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/000514.png" alt="Energy Drain" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002676.png" alt="Fester" width="48" />
-
-**Lv15—22 - Gemas: Ruby → Emerald → Topaz**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002753.png" alt="Summon Ruby" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002754.png" alt="Summon Emerald" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/000517.png" alt="Summon Topaz" width="48" />
-
-### Níveis 30—50: Primais
-
-**Lv30 - Summon Ifrit (600 potência + 2 Fire Attunement)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002680.png" alt="Summon Ifrit" width="48" />
-
-**Lv35 - Summon Titan (600 potência + 4 Earth Attunement)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002755.png" alt="Summon Titan" width="48" />
-
-**Lv40 - Painflare (150 potência AOE)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002681.png" alt="Painflare" width="48" />
-
-**Lv45 - Summon Garuda (600 potência + 4 Wind Attunement)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002756.png" alt="Summon Garuda" width="48" />
-
-**Lv50 - Enkindle (Inferno/Earthen Fury/Aerial Blast)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/005685.png" alt="Enkindle" width="48" />
-
-### Níveis 50—80: Demi-Primais
-
-**Lv58 - Dreadwyrm Trance → Astral Impulse (500 potência instant)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002684.png" alt="Dreadwyrm Trance" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002757.png" alt="Astral Impulse" width="48" />
-
-**Lv62 - Ruin IV (490 potência instant) ⚠️ CRUCIAL PARA MOBILIDADE**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002686.png" alt="Ruin IV" width="48" />
-
-**Lv66 - Searing Light (5% buff grupo por 20s)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002780.png" alt="Searing Light" width="48" />
-
-**Lv70 - Summon Bahamut → Akh Morn (1.300 potência)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002691.png" alt="Summon Bahamut" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002693.png" alt="Enkindle Bahamut" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002694.png" alt="Akh Morn" width="48" />
-
-**Lv80 - Summon Phoenix → Rekindle (cura 400 + efeito)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002765.png" alt="Summon Phoenix" width="48" />
-<img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002764.png" alt="Rekindle" width="48" />
-
-### Níveis 80—100: Dawntrail
-
-**Lv86 - Elemental Mastery:**
-- Ifrit: *Crimson Cyclone* (gap closer 490) <img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002769.png" alt="Crimson Cyclone" width="24" />
-- Titan: *Mountain Buster* (160 AOE) <img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002770.png" alt="Mountain Buster" width="24" />
-- Garuda: *Slipstream* (490 + DoT poça) <img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002771.png" alt="Slipstream" width="24" />
-
-**Lv90 - Summon II (800 potência, tamanho real)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002772.png" alt="Summon Ifrit II" width="48" />
-
-**Lv92 - Necrotize (460 potência, upgrade Fester)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002699.png" alt="Necrotize" width="48" />
-
-**Lv96 - Searing Flash (600 AOE OGCD)**
-<br><img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002781.png" alt="Searing Flash" width="48" />
-
-**Lv100 - Solar Bahamut:**
-- Luxwave automático <img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002783.png" alt="Luxwave" width="24" />
-- Lux Solaris (500 cura AOE) <img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002787.png" alt="Lux Solaris" width="24" />
-- Sunflare (800 potência) <img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002786.png" alt="Sunflare" width="24" />
-- Exodus (1.500 potência) <img src="https://static.icy-veins.com/images/ffxiv/action-icons/large/002789.png" alt="Exodus" width="24" />
-
-## 🔥 Rotações
-
-### Single Target (Nível 100)
-1. **Searing Light** (buff grupo) → Ruby's Glimmer buff
-2. **Dreadwyrm Trance** → Astral Impulse → Deathflare
-3. **Ciclo Demi-Primais:** Solar Bahamut → Bahamut → Phoenix
-4. **Weave:** Lux Solaris + Searing Flash (janelas OGCD)
-5. **Energy Drain** sempre no cooldown → Fester/Necrotize
-6. Use **Ruin IV** estrategicamente (*Further Ruin* dura 60s)
-
-### AOE (3+ inimigos)
-1. Priorizar **Slipstream** (Garuda - DoT em poça)
-2. **Painflare** + **Searing Flash** para burst
-3. **Egi abilities** para mobilidade (instant cast)
-4. **Astral Flare/Umbral Flare** durante trances
-5. **Energy Siphon** → Painflare para AOE sustain
-
-### Ordem Recomendada de Gemas
-**Ruby → Emerald → Topaz** (single target)
-<br>**Garuda → Titan → Ifrit** (AOE com Slipstream primeiro)
-
-### ⚡ Traits Importantes
-- **Lv 88**: *Radiant Aegis* ganha 2 cargas
-- **Lv 94**: *Swiftcast* reduzido para 40s
-- **Lv 96**: *Searing Light* ganha *Ruby's Glimmer* (30s buff)
-- **Lv 98**: *Addle* duração estendida para 15s
-- **Lv 100**: Desbloqueia *Solar Bahamut* no ciclo
-
-## 📊 Sistema de Gauges
-
-| Gauge | Função | Imagem |
-|-------|--------|--------|
-| **Trance** | Duração da trance/demi-primal ativa | <img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" width="120" /> |
-| **Elemental Arcanum** | Arcanums disponíveis + cargas elementais | <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Arcanum Gauge" width="120" /> |
-| **Aetherflow** | Cargas para Fester/Painflare | <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow Gauge" width="120" /> |
-
-## 💡 Dicas Essenciais
-
-### ⚠️ Críticas
-1. **Radiant Aegis** (60s CD, 2 cargas) — use antes de dano pesado
-2. **Ruin IV** — principal ferramenta de mobilidade, não desperdice
-3. **Searing Light** — sincronize com o burst do grupo
-4. **Double Weaves** — essencial para *Lux Solaris* sem perda de DPS
-5. **Energy Drain/Energy Siphon** — sempre use no cooldown para Fester/Painflare
-
-### 🎮 Gameplay
-- **Ciclo 4 minutos**: Solar Bahamut → Bahamut → Solar Bahamut → Phoenix
-- **Movimento**: Ruin IV > Egi abilities (instant cast) > outras opções
-- **AOE**: Slipstream cria poça DoT (30/s por 15s)
-- **Emergência**: *Resurrect* disponível (Red Mage é a outra opção)
-- **Pet Management**: Carbuncle deve estar sempre ativo para usar habilidades
-
-### 🏆 Otimização Avançada
-- Evite **velocidade desnecessária** (causa drift nos demi-primais)
-- **Weave timing**: até 2 OGCDs por GCD quando possível
-- **Burst windows**: alinhe com outros DPS para máximo dano
-- **Primal order**: adapte conforme mecânicas da luta
-- **Further Ruin**: buff dura 60s, use *Ruin IV* estrategicamente
-
-### 🔧 Role Actions Importantes
-- **Addle** — reduz dano físico 5% / mágico 10% por 15s
-- **Swiftcast** — próximo spell é instant (40s CD)
-- **Surecast** — previne knockback e permite cast sem interrupção
-- **Sleep** — CC em emergências
-- **Lucid Dreaming** — regenera MP gradualmente
-
-## 🌟 Resumo
-
-**Summoner** combina **simplicidade inicial** com **complexidade estratégica**, oferecendo a **maior mobilidade** entre DPS mágicos. Ideal para iniciantes pela facilidade de uso e para veteranos pela flexibilidade tática.
-
-*Evolução*: Classe "de um botão" → DPS complexo e recompensador no nível máximo.
+> ⚠️ **Importante:** Lembre-se de equipar sua Soul Crystal para se tornar um Invocador!
 
 ---
 
-## 📚 Recursos Adicionais
-- [Icy Veins Summoner Guide](https://www.icy-veins.com/ffxiv/summoner-guide)
-- Balance Discord — Summoner Resources
-- FFLogs — análise de performance
+## ⚙️ Mecânicas Principais
 
-<p align="right"><sub><em>Última atualização</em>: Dawntrail 7.2</sub></p>
+| Mecânica | Descrição |
+|----------|-----------|
+| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/000516.png" alt="Carbuncle" width="48"><br>**Carbuncle**</div> | Seu familiar principal que fornece Radiant Aegis (escudo). Deve estar sempre invocado. |
+| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/002751.png" alt="Aethercharge" width="48"><br>**Aethercharge**</div> | Fortalece Ruin/Outburst e concede Elemental Arcanums para invocar primais. |
+| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"><br>**Elemental Arcanum**</div> | Ruby, Topaz e Emerald Arcanums que permitem invocar primais elementais. |
+| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"><br>**Aetherflow Gauge**</div> | Cargas obtidas via Energy Drain para usar Fester/Painflare/Necrotize. |
+
+---
+
+## 📊 Sistema de Gauges
+
+| Gauge | Função |
+|-------|-------|
+| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" width="100"><br>**Trance Gauge**</div> | Monitora a duração do Trance ativo (Dreadwyrm/Bahamut/Phoenix/Solar). |
+| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"><br>**Elemental Arcanum**</div> | Mostra Arcanums disponíveis e cargas elementais (Attunement). |
+| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"><br>**Aetherflow Gauge**</div> | Indica cargas disponíveis para Fester/Painflare/Necrotize. |
+---
+
+## 🎯 Habilidades por Nível
+
+### 🌱 Níveis 1-30: Fundamentos
+
+| Imagem | Detalhes |
+|--------|----------|
+| ![Ruin](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000501.png) | **Ruin (Nível 1)**<br>**Potência:** 240 \| **Cast:** 1.5s \| **Recast:** 2.5s<br>Seu feitiço principal de dano não-aspectado. |
+| ![Summon Carbuncle](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000516.png) | **Summon Carbuncle (Nível 2)**<br>**Cast:** 1.5s \| **MP:** 400<br>Invoca seu familiar principal. **Sempre ativo antes do combate.** |
+| ![Radiant Aegis](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002750.png) | **Radiant Aegis (Nível 2)**<br>**Cooldown:** 60s \| **Absorção:** 20% HP máximo<br>**A partir do Nível 88, ganha 2 cargas.** |
+| ![Physick](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000518.png) | **Physick (Nível 4)**<br>**Potência:** 400 \| **Cast:** 1.5s<br>Cura básica. **⚠️ Escala com Mente, não Inteligência.** |
+| ![Aethercharge](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002751.png) | **Aethercharge (Nível 6)**<br>**Cooldown:** 60s \| **Duração:** 15s<br>Aumenta potência de Ruin/Ruin II/Ruin III +50, Outburst +20 |
+| ![Summon Ruby](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002753.png) | **Summon Ruby (Nível 6)**<br>**Potência:** 400 (fogo)<br>Concede: 2 stacks de Fire Attunement (30s) |
+| ![Fester](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002676.png) | **Fester (Nível 10) → Necrotize (92)**<br>**Potência:** 340→440 \| **Custo:** 1 Aetherflow<br>Habilidade OGCD para gastar cargas. |
+| ![Energy Drain](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000514.png) | **Energy Drain (Nível 10)**<br>**Potência:** 200 \| **Cooldown:** 60s<br>Concede 2 cargas de Aetherflow. Use sempre! |
+| ![Summon Topaz](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000517.png) | **Summon Topaz (Nível 15)**<br>**Potência:** 400 (terra)<br>Concede: 4 stacks de Earth Attunement (30s) |
+| ![Summon Emerald](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002754.png) | **Summon Emerald (Nível 22)**<br>**Potência:** 400 (vento)<br>Concede: 4 stacks de Wind Attunement (30s) |
+| ![Outburst](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002698.png) | **Outburst (Nível 26)**<br>**Potência:** 100 (AOE 5y)<br>Use com **3+ alvos**. |
+
+### 🔥 Níveis 30-50: Primais
+
+| Imagem | Detalhes |
+|--------|----------|
+| ![Summon Ifrit](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002680.png) | **Summon Ifrit (Nível 30)**<br>**Potência:** 500 (fogo)<br>Versão aprimorada de Summon Ruby. |
+| ![Summon Titan](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002755.png) | **Summon Titan (Nível 35)**<br>**Potência:** 500 (terra)<br>Mantém mobilidade com maior potência. |
+| ![Painflare](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002681.png) | **Painflare (Nível 40)**<br>**Potência:** 150 (AOE)<br>Versão AOE do Fester para 3+ alvos. |
+| ![Summon Garuda](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002756.png) | **Summon Garuda (Nível 45)**<br>**Potência:** 100 (AOE 5y)<br>Excelente para múltiplos alvos. |
+| ![Enkindle](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002693.png) | **Enkindle (Nível 50)**<br>**Potência:** 600 (todos primais)<br>Padroniza e melhora ataques de invocação. |
+
+### 🌟 Níveis 50-80: Demi-Primais
+
+| Imagem | Detalhes |
+|--------|----------|
+| ![Dreadwyrm Trance](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002684.png) | **Dreadwyrm Trance (Nível 58)**<br>**Duração:** 15s<br>Substitui Ruin III por **Astral Impulse**. |
+| ![Astral Impulse](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002757.png) | **Astral Impulse (Nível 58)**<br>**Potência:** 440<br>Use em alvo único durante Dreadwyrm Trance. |
+| ![Deathflare](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002685.png) | **Deathflare (Nível 60)**<br>**Potência:** 500 (AOE: 200 adicional)<br>Uma vez por Trance. |
+| ![Ruin IV](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002686.png) | **Ruin IV (Nível 62)**<br>**Potência:** 520<br>**🚀 Ferramenta de mobilidade crucial!** |
+| ![Searing Light](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002780.png) | **Searing Light (66) → Searing Flash (96)**<br>**Buff grupo:** +5% dano (20s) |
+| ![Summon Bahamut](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002691.png) | **Summon Bahamut (Nível 70)**<br>**Duração:** 15s<br>Primeiro demi-primal. |
+| ![Enkindle Bahamut](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002694.png) | **Enkindle Bahamut (Nível 70)**<br>**Potência:** 1,300<br>Dano massivo! |
+| ![Summon Phoenix](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002765.png) | **Summon Phoenix (Nível 80)**<br>Alterna com Bahamut<br>Cura adicional: Everlasting Flight. |
+| ![Rekindle](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002764.png) | **Rekindle (Nível 80)**<br>**Cura:** 400 potência<br>Substitui Deathflare durante Phoenix. |
+
+### 🌅 Níveis 80-100: Dawntrail
+
+| Imagem | Detalhes |
+|--------|----------|
+| ![Elemental Mastery](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002769.png) | **Elemental Mastery (Nível 86)**<br>Habilidades únicas para cada primal. |
+| ![Summon Ifrit II](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002772.png) | **Summon Ifrit II (90)**<br>**Potência:** 750 (300 AOE)<br>Modelos tamanho real. |
+| ![Summon Solar Bahamut](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002782.png) | **Summon Solar Bahamut (100)**<br>**O demi-primal mais poderoso!** |
+| ![Lux Solaris](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002787.png) | **Lux Solaris (Nível 100)**<br>**Cura AOE:** 500 potência<br>Cura que escala com INT! |
+
+---
+
+## 🔄 Rotações e Estratégias
+
+### 🎯 Rotação Single Target (Nível 100)
+
+#### **Opener (Início de Combate):**
+- Pré-cast Ruin III (1.5s antes do pull)
+- Summon Solar Bahamut + Searing Light
+
+#### **Durante Solar Bahamut:**
+- Umbral Impulse como GCD principal
+- Weave: Energy Drain + Exodus
+- Weave: Necrotize + Searing Flash
+- Weave: Lux Solaris (quando necessário)
+
+#### **Fase Elemental (após Transe):**
+- Ordem recomendada: Ruby → Emerald → Topaz
+- Ruby: Summon Ifrit II → Crimson Cyclone → Crimson Strike
+- Emerald: Summon Garuda II → Slipstream (use Swiftcast se necessário)
+- Topaz: Summon Titan II → 4x Topaz Rite + Mountain Buster após cada uma
+- Filler: Use Ruin III até próximo Trance disponível
+
+### 🌪️ Rotação AOE (3+ Inimigos)
+- Ordem recomendada: Garuda → Titan → Ifrit
+- Priorize Slipstream para DoT ground
+- Use Astral/Umbral Flare durante transes
+- Energy Siphon no lugar de Energy Drain
+- Painflare no lugar de Necrotize
+- Tri-disaster/Catastrophes no lugar de Rites
+
+---
+
+## 💡 Dicas Essenciais
+
+<div class="tips-grid">
+  <div class="tip-card">
+    <h4>⏱️ Gerenciamento de Recursos</h4>
+    <p>• Use <strong>Energy Drain</strong> sempre no cooldown<br>• Priorize <strong>Ruin IV</strong> para mobilidade<br>• Gerencie <strong>Further Ruin</strong> (dura 60s)</p>
+  </div>
+  
+  <div class="tip-card">
+    <h4>🛡️ Sobrevivência</h4>
+    <p>• <strong>Radiant Aegis</strong> antes de dano pesado<br>• Use 2 cargas estrategicamente (Nv 88+)<br>• <strong>Lux Solaris</strong> para cura de grupo</p>
+  </div>
+  
+  <div class="tip-card">
+    <h4>⚔️ Otimização de Dano</h4>
+    <p>• Alinhe bursts com <strong>Searing Light</strong><br>• Evite excesso de Spell Speed<br>• Adapte ordem de primais conforme luta</p>
+  </div>
+</div>
+
+---
+
+## 🎮 Gameplay
+- **Ciclo de 4 minutos:** Solar Bahamut → Bahamut → Solar Bahamut → Phoenix
+- **Movimento:** Ruin IV ou habilidades instantâneas dos Egis
+- **AOE:** Slipstream cria DoT ground (15s) eficaz
+- **Emergência:** Resurrection + Swiftcast
+
+---
+
+## 🏆 Otimização Avançada
+- **Drift Prevention:** Mantenha GCD constante (2.42-2.45s)
+- **Buff Alignment:** Sincronize Searing Light com bursts de grupo
+- **Primal Sequencing:** Ifrit → Garuda → Titan para máximo dano
+- **Downtime Handling:** Prepare Ruin IV para movimento
+
+---
+
+## 🛠️ Habilidades de Função (Role Actions)
+
+| Imagem | Descrição |
+|--------|-----------|
+| ![Addle](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000861.png) | **Addle**<br>-5% dano físico, -10% mágico (15s)<br>Use antes de grandes ataques de boss |
+| ![Swiftcast](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000866.png) | **Swiftcast**<br>Próximo feitiço instantâneo (40s CD)<br>Para Resurrection instantânea |
+| ![Lucid Dreaming](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000865.png) | **Lucid Dreaming**<br>Regenera MP (55 pot, 21s)<br>Use quando MP < 8,000 |
+| ![Surecast](https://static.icy-veins.com/images/ffxiv/action-icons/medium/000869.png) | **Surecast**<br>Anti-interrupção + anti-knockback (6s)<br>Para conjurações seguras |
+| ![Searing Light](https://static.icy-veins.com/images/ffxiv/action-icons/medium/002780.png) | **Searing Light**<br>+5% dano (20s) para grupo<br>Buff essencial para bursts |
+
+---
+
+## 🌟 Resumo Final
+O Invocador combina simplicidade inicial com complexidade estratégica no endgame. Oferece a maior mobilidade entre DPS mágicos e adaptabilidade através da gestão de primais.
+
+## ✅ Pontos Fortes
+
+| Mobilidade | Dano | Utilidade | Flexibilidade |
+|------------|------|-----------|---------------|
+| <div align="center"><strong>🔥 Alta Mobilidade</strong><br><em>Move-se sem perder DPS</em></div> | <div align="center"><strong>⚡ Burst Damage</strong><br><em>Janelas de dano extremo</em></div> | <div align="center"><strong>🔮 Utilidade Grupo</strong><br><em>Buffs, curas e ressurreição</em></div> | <div align="center"><strong>✨ Flexibilidade</strong><br><em>Adapta-se a diferentes situações</em></div> |
+
+---
+
+## 📚 Recursos Adicionais & Creditos
+
+<div class="resources-grid">
+  <div class="resource-card">
+    <h4>🌐 Links Úteis</h4>
+    <ul>
+      <li><a href="https://ffxiv.consolegameswiki.com/wiki/Arcanist">FFXIV Console Games Wiki</a></li>
+      <li><a href="https://www.icy-veins.com/ffxiv/summoner-guide">Icy Veins Guide</a></li>
+      <li><a href="https://www.thebalanceffxiv.com/">The Balance FFXIV</a></li>
+    </ul>
+  </div>
+  
+  <div class="resource-card">
+    <h4>🎯 Ferramentas de Prática</h4>
+    <ul>
+      <li>Stone, Sky, Sea (dummies)</li>
+      <li>ACT (parser)</li>
+      <li>XIV Analysis (logs)</li>
+      <li>Teamcraft (planejamento)</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+## 🏆 Conquistas e Progressão
+
+<div class="milestones-grid">
+  <div class="milestone-card">
+    <div class="milestone-level">30</div>
+    <h4>Desbloqueio do Job</h4>
+    <p>Complete "Sinking Doesmaga" e "Self-Management"</p>
+  </div>
+  
+  <div class="milestone-card">
+    <div class="milestone-level">50</div>
+    <h4>Primeiro Marco</h4>
+    <p>Enkindle padroniza ataques dos primais</p>
+  </div>
+  
+  <div class="milestone-card">
+    <div class="milestone-level">70</div>
+    <h4>Demi-Primal</h4>
+    <p>Summon Bahamut transforma gameplay</p>
+  </div>
+  
+  <div class="milestone-card">
+    <div class="milestone-level">80</div>
+    <h4>Bahamut/Phoenix</h4>
+    <p>Dualidade entre dano e utilidade</p>
+  </div>
+  
+  <div class="milestone-card">
+    <div class="milestone-level">100</div>
+    <h4>Solar Bahamut</h4>
+    <p>Ápice da classe com demi-primal poderoso</p>
+  </div>
+</div>
+
+---
+
+## 🔧 Configurações Recomendadas
+
+### ⚙️ Hotbars
+- **Barra 1:** GCDs principais (Ruin, Gemshine, etc.)
+- **Barra 2:** OGCDs (Fester, Energy Drain, etc.)
+- **Barra 3:** Summons e Transes
+- **Barra 4:** Utilidade (Radiant Aegis, Physick)
+
+### 🎮 Controles
+- **Target Cycling:** Configure para inimigos próximos
+- **Pet Actions:** Configure comandos de pet
+- **Ground Targeting:** Para Slipstream
+- **Macros:** Evite para habilidades de dano
+
+### 📊 UI/HUD
+- **Gauges:** Posicione próximos ao centro
+- **Cooldowns:** Use timers visuais
+- **Buff Tracking:** Monitore Aethercharge/Attunements
+- **Cast Bar:** Posicione para visibilidade
+
+---
+
+## 🎨 Glamour e Estética
+
+<div class="glamour-grid">
+  <div class="glamour-card">
+    <h4>✨ Sets Recomendados</h4>
+    <ul>
+      <li>Scholar's Set (clássico)</li>
+      <li>Allagan Set (tecnologia)</li>
+      <li>Draconian Set (dracônico)</li>
+      <li>Phoenix Set (flamejante)</li>
+    </ul>
+  </div>
+  
+  <div class="glamour-card">
+    <h4>🎭 Armas Icônicas</h4>
+    <ul>
+      <li>Apocalypse (grimoire)</li>
+      <li>Anima Weapons (efeitos visuais)</li>
+      <li>Relic Weapons (evolução)</li>
+    </ul>
+  </div>
+</div>
+
+---
+
+## 🤝 Etiqueta em Grupo
+
+### 👥 Como DPS
+- Priorize mecânicas sobre DPS máximo
+- Use Addle em ataques pesados do boss
+- Resurrection em emergências (coordene com healers)
+- Searing Light nos bursts de grupo
+
+### 🎯 Posicionamento
+- Mantenha range máximo quando possível
+- Stack com ranged para buff sharing
+- Use mobilidade para evitar AOEs sem perder uptime
+- Slipstream placement: Posicione onde inimigos ficarão
+
+### 💬 Comunicação
+- Callouts importantes: Quando usar Resurrection
+- Cooldown coordination: Alinhe bursts com outros DPS
+- Utility usage: Comunique uso de Addle em mecânicas específicas
+
+---
+
+## 🔮 Futuro da Classe
+O Summoner continua evoluindo a cada expansão, mantendo sua identidade única de mobilidade e versatilidade. Com Dawntrail, a classe alcançou um equilíbrio refinado entre acessibilidade para novos jogadores e profundidade para veteranos.
+
+**Expectativas futuras:**
+- Mais opções de customização de primais
+- Possíveis novos demi-primais
+- Refinamentos contínuos no sistema de Elemental Mastery
+
+<div align="center" class="footer">
+  <p>Este guia foi criado com base nas informações mais atuais do FFXIV<br><strong>Versão:</strong> Patch 7.3 | <strong>Atualizado:</strong> 2025</p>
+</div>
+
+<style>
+  /* Estilos gerais */
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #e0e0e0;
+    background-color: #121218;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1, h2, h3, h4 {
+    color: #6b4eff;
+    margin-top: 1.5em;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #6b4eff;
+    padding-bottom: 8px;
+    margin-bottom: 1em;
+  }
+  
+  /* Grids */
+  .strengths-grid, .weaknesses-grid, .mechanics-grid, 
+  .gauge-grid, .tips-grid, .unlock-grid,
+  .milestones-grid, .resources-grid, .glamour-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    margin: 25px 0;
+  }
+  
+  /* Cards */
+  .strength-card, .weakness-card, .mechanic-card, 
+  .gauge-card, .tip-card, .unlock-card,
+  .milestone-card, .resource-card, .glamour-card {
+    background: #1e1e2a;
+    border-radius: 8px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .strength-card:hover, .weakness-card:hover, .mechanic-card:hover, 
+  .gauge-card:hover, .tip-card:hover, .unlock-card:hover,
+  .milestone-card:hover, .resource-card:hover, .glamour-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(107, 78, 255, 0.25);
+  }
+  
+  /* Ícones */
+  .strength-icon, .weakness-icon {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .job-icon img {
+    width: 64px;
+    height: 64px;
+    margin: 10px auto;
+    display: block;
+  }
+  
+  .milestone-level {
+    background: #6b4eff;
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 0 auto 15px;
+  }
+  
+  /* Tabelas */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: #1e1e2a;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  table td {
+    padding: 12px;
+    border: 1px solid #3a3a4e;
+    vertical-align: top;
+  }
+  
+  table td:first-child {
+    width: 80px;
+    text-align: center;
+  }
+  
+  table img {
+    width: 64px;
+    height: 64px;
+    border-radius: 5px;
+    background: #0f0f15;
+    padding: 5px;
+  }
+  
+  /* Mermaid */
+  .mermaid {
+    background: #1e1e2a;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  
+  /* Footer */
+  .footer {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: linear-gradient(135deg, #6b4eff, #3a1eff);
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .strengths-grid, .weaknesses-grid, .mechanics-grid, 
+    .gauge-grid, .tips-grid, .unlock-grid,
+    .milestones-grid, .resources-grid, .glamour-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
