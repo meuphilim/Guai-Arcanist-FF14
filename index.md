@@ -100,9 +100,9 @@ Os Invocadores são mestres na utilização do poder e da atenuação elemental 
 
 | Gauge | Função |
 |-------|-------|
-| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" width="100"><br>**Trance Gauge**</div> | Monitora a duração do Trance ativo (Dreadwyrm/Bahamut/Phoenix/Solar). |
-| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"><br>**Elemental Arcanum**</div> | Mostra Arcanums disponíveis e cargas elementais (Attunement). |
-| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"><br>**Aetherflow Gauge**</div> | Indica cargas disponíveis para Fester/Painflare/Necrotize. |
+| <img src="https://static.icy-veins.com/images/ffxiv/summoner/trancegauge.png" alt="Trance Gauge" width="100"><br>**Trance Gauge** | Monitora a duração do Trance ativo (Dreadwyrm/Bahamut/Phoenix/Solar). |
+| <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"><br>**Elemental Arcanum** | Mostra Arcanums disponíveis e cargas elementais (Attunement). |
+| <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"><br>**Aetherflow Gauge** | Indica cargas disponíveis para Fester/Painflare/Necrotize. |
 ---
 
 ## 🎯 Habilidades por Nível
