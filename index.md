@@ -78,8 +78,8 @@ Os Invocadores são mestres na utilização do poder e da atenuação elemental 
 
 | Classe | Requisitos |
 |--------|------------|
-| <div align="center"><img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/7b/Arcanist_frame_icon.png/30px-Arcanist_frame_icon.png" alt="Arcanista"><br> **Arcanista** </div> | Nível 1 em qualquer classe + iniciar em Limsa Lominsa |
-| <div align="center"><img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/62/Summoner_frame_icon.png/30px-Summoner_frame_icon.png" alt="Invocador"><br> **Invocador**  </div> | Nível 30 de Arcanista + completar "Sinking Doesmaga" e "Self-Management" |
+| <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/7b/Arcanist_frame_icon.png/30px-Arcanist_frame_icon.png" alt="Arcanista"><br> **Arcanista** | Nível 1 em qualquer classe + iniciar em Limsa Lominsa |
+| <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/62/Summoner_frame_icon.png/30px-Summoner_frame_icon.png" alt="Invocador"><br> **Invocador**  | Nível 30 de Arcanista + completar "Sinking Doesmaga" e "Self-Management" |
 
 > ⚠️ **Importante:** Lembre-se de equipar sua Soul Crystal para se tornar um Invocador!
 
