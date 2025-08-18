@@ -245,7 +245,7 @@ O Invocador combina simplicidade inicial com complexidade estratégica no endgam
 
 | Mobilidade | Dano | Utilidade | Flexibilidade |
 |------------|------|-----------|---------------|
-| <div align="center"><strong>🔥 Alta Mobilidade</strong><br><em>Move-se sem perder DPS</em></div> | <div align="center"><strong>⚡ Burst Damage</strong><br><em>Janelas de dano extremo</em></div> | <div align="center"><strong>🔮 Utilidade Grupo</strong><br><em>Buffs, curas e ressurreição</em></div> | <div align="center"><strong>✨ Flexibilidade</strong><br><em>Adapta-se a diferentes situações</em></div> |
+| <strong>🔥 Alta Mobilidade</strong><br><em>Move-se sem perder DPS</em> | <strong>⚡ Burst Damage</strong><br><em>Janelas de dano extremo</em> | <strong>🔮 Utilidade Grupo</strong><br><em>Buffs, curas e ressurreição</em> | <strong>✨ Flexibilidade</strong><br><em>Adapta-se a diferentes situações</em> |
 
 ---
 
