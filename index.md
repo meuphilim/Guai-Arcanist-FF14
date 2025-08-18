@@ -78,8 +78,8 @@ Os Invocadores são mestres na utilização do poder e da atenuação elemental 
 
 | Classe | Requisitos |
 |--------|------------|
-| <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/7b/Arcanist_frame_icon.png/30px-Arcanist_frame_icon.png" alt="Arcanista"><br> **Arcanista** | Nível 1 em qualquer classe + iniciar em Limsa Lominsa |
-| <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/62/Summoner_frame_icon.png/30px-Summoner_frame_icon.png" alt="Invocador"><br> **Invocador**  | Nível 30 de Arcanista + completar "Sinking Doesmaga" e "Self-Management" |
+| <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/7b/Arcanist_frame_icon.png/30px-Arcanist_frame_icon.png" alt="Arcanista"> | **Arcanista** <br> Nível 1 em qualquer classe + iniciar em Limsa Lominsa |
+| <img src="https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/62/Summoner_frame_icon.png/30px-Summoner_frame_icon.png" alt="Invocador"> | **Invocador** <br> Nível 30 de Arcanista + completar "Sinking Doesmaga" e "Self-Management" |
 
 > ⚠️ **Importante:** Lembre-se de equipar sua Soul Crystal para se tornar um Invocador!
 
@@ -89,10 +89,10 @@ Os Invocadores são mestres na utilização do poder e da atenuação elemental 
 
 | Mecânica | Descrição |
 |----------|-----------|
-| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/000516.png" alt="Carbuncle" width="48"><br>**Carbuncle**</div> | Seu familiar principal que fornece Radiant Aegis (escudo). Deve estar sempre invocado. |
-| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/002751.png" alt="Aethercharge" width="48"><br>**Aethercharge**</div> | Fortalece Ruin/Outburst e concede Elemental Arcanums para invocar primais. |
-| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"><br>**Elemental Arcanum**</div> | Ruby, Topaz e Emerald Arcanums que permitem invocar primais elementais. |
-| <div align="center"><img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"><br>**Aetherflow Gauge**</div> | Cargas obtidas via Energy Drain para usar Fester/Painflare/Necrotize. |
+| <<img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/000516.png" alt="Carbuncle" width="48"><br> **Carbuncle** </div> | Seu familiar principal que fornece Radiant Aegis (escudo). Deve estar sempre invocado. |
+| <div align="center"> <img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/002751.png" alt="Aethercharge" width="48"> <br> **Aethercharge** </div> | Fortalece Ruin/Outburst e concede Elemental Arcanums para invocar primais. |
+| <div align="center"> <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"> <br> **Elemental Arcanum** </div> | Ruby, Topaz e Emerald Arcanums que permitem invocar primais elementais. |
+| <div align="center"> <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"> <br> **Aetherflow Gauge** </div> | Cargas obtidas via Energy Drain para usar Fester/Painflare/Necrotize. |
 
 ---
 
