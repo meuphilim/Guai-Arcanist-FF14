@@ -89,10 +89,10 @@ Os Invocadores são mestres na utilização do poder e da atenuação elemental 
 
 | Mecânica | Descrição |
 |----------|-----------|
-| <<img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/000516.png" alt="Carbuncle" width="48"><br> **Carbuncle** </div> | Seu familiar principal que fornece Radiant Aegis (escudo). Deve estar sempre invocado. |
-| <div align="center"> <img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/002751.png" alt="Aethercharge" width="48"> <br> **Aethercharge** </div> | Fortalece Ruin/Outburst e concede Elemental Arcanums para invocar primais. |
-| <div align="center"> <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"> <br> **Elemental Arcanum** </div> | Ruby, Topaz e Emerald Arcanums que permitem invocar primais elementais. |
-| <div align="center"> <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"> <br> **Aetherflow Gauge** </div> | Cargas obtidas via Energy Drain para usar Fester/Painflare/Necrotize. |
+| <img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/000516.png" alt="Carbuncle" width="48"> | **Carbuncle** <br> Seu familiar principal que fornece Radiant Aegis (escudo). Deve estar sempre invocado. |
+| <img src="https://static.icy-veins.com/images/ffxiv/action-icons/medium/002751.png" alt="Aethercharge" width="48"> | **Aethercharge** <br> Fortalece Ruin/Outburst e concede Elemental Arcanums para invocar primais. |
+| <img src="https://static.icy-veins.com/images/ffxiv/summoner/primalgauge.png" alt="Elemental Arcanum" width="100"> | **Elemental Arcanum** <br> Ruby, Topaz e Emerald Arcanums que permitem invocar primais elementais. |
+| <img src="https://static.icy-veins.com/images/ffxiv/summoner/aetherflowgauge.png" alt="Aetherflow" width="100"> | **Aetherflow Gauge** <br> Cargas obtidas via Energy Drain para usar Fester/Painflare/Necrotize. |
 
 ---
 
